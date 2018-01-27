@@ -12,5 +12,9 @@ This is an Android application that was built to be used as a framework to conve
 * Navigate to MainActivity.java file and add a web address in the webView.loadurl() method 
 * Run the app on either an emulator or a device 
 
+## Requirement 
+* This application requires that the web page that is being converted must be responsive
+
+
 
 
